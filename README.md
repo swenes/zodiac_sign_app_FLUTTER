@@ -1,5 +1,4 @@
-# e_commerce
-
+Zodiac Sıgn APP
 A new Flutter project.
 
 ## Getting Started
