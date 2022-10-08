@@ -1,4 +1,6 @@
-Zodiac Sıgn APP
+
+## Zodiac Sıgn APP
+
 A new Flutter project.
 
 ## Getting Started
